@@ -1,0 +1,42 @@
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.deps.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.runtimeconfig.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.runtimeconfig.dev.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.AssemblyInfoInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.AssemblyInfo.cs
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csprojAssemblyReference.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csproj.CopyComplete
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.deps.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.runtimeconfig.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.runtimeconfig.dev.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csprojAssemblyReference.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csproj.CopyComplete
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.deps.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.runtimeconfig.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.runtimeconfig.dev.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csprojAssemblyReference.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.csproj.CopyComplete
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp\obj\Debug\netcoreapp2.0\ExoNet.WebApp.pdb

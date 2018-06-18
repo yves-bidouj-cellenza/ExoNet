@@ -1,0 +1,12 @@
+﻿@model AuthenticationViewModel
+@{ 
+    ViewData["Title"] = "Authentication";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+<form asp-controller="Authentication" asp-action="Authenticate" method="post">
+    Email:  <input asp-for="Email" /> <br />
+    Password: <input asp-for="Password" /><br />
+    Confidential: <input asp-for="IsConfidential" /><br />
+    <button type="submit">Register</button>
+</form>

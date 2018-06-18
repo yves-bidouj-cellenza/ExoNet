@@ -1,0 +1,26 @@
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.deps.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.csprojAssemblyReference.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.AssemblyInfoInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.AssemblyInfo.cs
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.deps.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.deps.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.Security\obj\Debug\netcoreapp2.0\ExoNet.WebApp.Security.csprojAssemblyReference.cache

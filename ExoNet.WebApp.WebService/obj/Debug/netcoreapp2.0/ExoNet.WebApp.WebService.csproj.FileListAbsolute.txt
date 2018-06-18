@@ -1,0 +1,33 @@
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.deps.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.runtimeconfig.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.runtimeconfig.dev.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.AssemblyInfoInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.AssemblyInfo.cs
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.csprojAssemblyReference.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.deps.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.runtimeconfig.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.runtimeconfig.dev.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.csprojAssemblyReference.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.deps.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.runtimeconfig.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.runtimeconfig.dev.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.csprojAssemblyReference.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.WebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.WebService.pdb

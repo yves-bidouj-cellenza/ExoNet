@@ -1,0 +1,42 @@
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.deps.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.runtimeconfig.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.runtimeconfig.dev.json
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csprojAssemblyReference.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csproj.CoreCompileInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.AssemblyInfoInputs.cache
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.AssemblyInfo.cs
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Nabil\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csproj.CopyComplete
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csprojAssemblyReference.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.deps.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.runtimeconfig.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.runtimeconfig.dev.json
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Source\Repos\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csproj.CopyComplete
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.deps.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.runtimeconfig.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.runtimeconfig.dev.json
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\bin\Debug\netcoreapp2.0\ExoNet.WebApp.Security.pdb
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csprojAssemblyReference.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csproj.CoreCompileInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.AssemblyInfoInputs.cache
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.AssemblyInfo.cs
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.csproj.CopyComplete
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.dll
+C:\Users\Yves Bidouj\Downloads\ExoNet\ExoNet.WebApp.SecuredWebService\obj\Debug\netcoreapp2.0\ExoNet.WebApp.SecuredWebService.pdb
